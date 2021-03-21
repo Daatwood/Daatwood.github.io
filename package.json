@@ -7,7 +7,7 @@
 	"dependencies": {
 		"@material-ui/core": "^1.1.0",
 		"@material-ui/icons": "^1.1.0",
-		"axios": "^0.18.0",
+		"axios": "^0.21.1",
 		"del-cli": "^1.1.0",
 		"deploy-aws-s3-cloudfront": "^0.2.9",
 		"dotenv": "^8.2.0",
